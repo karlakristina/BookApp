@@ -1,0 +1,10 @@
+flask
+flask_wtf
+PyMySQL
+sqlalchemy
+redis
+dogpile.cache
+kafka-python
+flask-socketio
+flask_cors
+cryptography
